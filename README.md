@@ -4,6 +4,13 @@ A simple flask filer serv for embedded linux which support curl binary
 
 ## example usage
 
+host side
+
+```
+python fileserv.py --host <ip> --port <port>
+```
+
+
 client side
 
 * download file
